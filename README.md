@@ -1,6 +1,6 @@
-# КР5 — Вариант 26: Конвертер валют (Express.js)
+# КР5 — Конвертер валют (Express.js)
 
-По заданию нужно Express-приложение с API, middleware, static, routes/controllers.
+Express-приложение с API, middleware, static, routes/controllers.
 
 ## Запуск
 ```bash
